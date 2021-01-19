@@ -5,8 +5,12 @@ The zombies all have a grey color, and thus, can be easily detected and neutrali
 PRESS 'q' to exit the program.
 
 CAUTION!
+
 -The autoshooter is enabled IMMEDIATELY after running the program 
+
 -This autoshooter causes the cursor to move and click by itself, be careful!
+
 -Ensure that all important windows are closed
+
 -Press the 'q' key to kill the program
 
