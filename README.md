@@ -16,7 +16,7 @@ WARNING!
 
 -This autoshooter causes the cursor to move and click by itself, be careful!
 
--Ensure that all important windows are closed
+-Ensure that all important windows are closed (so that they don't get clicked accidentally)
 
 -Press the 'q' key to terminate
 
