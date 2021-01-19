@@ -1,10 +1,17 @@
 # Zombie-Autoshooter
+INTRODUCTION
+
 Braaaaiiiiinnss!
 This autoshooter is made for this Zombie Shooter Demo by Danpost (https://www.greenfoot.org/scenarios/12152).
-The zombies all have a grey color, and thus, can be easily detected and neutralized, have fun!
-PRESS 'q' to exit the program.
+Note that to improve efficiency, the autoshooter only looks at a tiny square around the player, it will
+only shoot zombies in this region (no need to worry if it doesn't start shooting at first)
 
-CAUTION!
+CONTROLS
+The autoshooter is enabled IMMEDIATELY after hitting run. Press 'q' to terminate.
+
+PLEASE READ THE WARNING BELOW BEFORE RUNNING THE PROGRAM.
+
+WARNING!
 
 -The autoshooter is enabled IMMEDIATELY after running the program 
 
@@ -12,5 +19,5 @@ CAUTION!
 
 -Ensure that all important windows are closed
 
--Press the 'q' key to kill the program
+-Press the 'q' key to terminate
 
